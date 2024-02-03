@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "ProPaw Advisor",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
+    "description": "Your purr business assistant that will help you to manage your clients and business requirements",
+    "slug": "propaw-advisor",
     "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "author_url": "https://cannox227.github.io",
+    "plugin_url": "https://github.com/cannox227/business-assistant",
+    "thumb": "https://raw.githubusercontent.com/https://github.com/cannox227/business-assistant/bizcat.jpg"
 }
